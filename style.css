@@ -1,0 +1,37 @@
+body{
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+.header_div{
+    background:white;
+    color:chartreuse;
+
+}
+.header_div p{
+    font-family: monospace;
+    color:gold;
+    letter-spacing: 2px;
+    font-size: 12px ;
+    font-weight: bold;
+}
+.main_div button{
+font-family: initial;
+font-weight: bolder;
+width: 130px;
+margin-top: 30px;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+position: fixed;
+color:grey;
+bottom:0;
+width:100%;
+font-size: 18px;
+background-color: white;
+line-height:3;
+text-align: center;
+text-shadow: 5px 5px 5px thistle;
+font-family: 'Italianno', cursive;
+font-size: 28px;
+}
